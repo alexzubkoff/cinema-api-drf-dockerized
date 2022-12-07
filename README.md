@@ -8,7 +8,7 @@ Install PostgresSQL and create db
 
 ```
 git clone https://github.com/alexzubkoff/cinema-api-drf-dockerized
-cd cinema-api
+cd cinema-api-drf-dockerized
 python -m venv venv
 source venv/bin/activate
 pip install -r requirements.txt
